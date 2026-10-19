@@ -1,7 +1,7 @@
-package Exercicios;
+package Exercicios.ExercicioFundamentos;
 import java.time.Year;
 
-public class ExercicioFundamentos {
+public class Main {
 
     public static void main(String[] args){
         // exercicio1();

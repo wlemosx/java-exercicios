@@ -1,8 +1,8 @@
-package Exercicios;
+package Exercicios.EstruturasDeControleJava;
 
 import java.util.Scanner;
 
-public class EstruturasDeControleJava {
+public class main {
     public static void main(String[] args){
         // exercicio1();
         // exercicio2();
